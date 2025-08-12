@@ -30,18 +30,18 @@ This application allows users to manage accounts, perform transactions, and view
 ## 📂 Project Structure
 BankingApp/
 │
-├── src/main/java/com/example/bankapp/ # Java source code
-│ ├── controllers/ # Spring MVC Controllers
-│ ├── models/ # JPA Entities
-│ ├── repositories/ # Spring Data Repositories
-│ └── services/ # Business logic
+├── src/main/java/com/example/bankapp/ 
+│ ├── controllers/ 
+│ ├── models/ 
+│ ├── repositories/ 
+│ └── services/ 
 │
 ├── src/main/resources/
-│ ├── static/ # Static assets (CSS, JS)
-│ ├── templates/ # JSP pages
-│ ├── application.properties # Spring Boot config
+│ ├── static/ 
+│ ├── templates/
+│ ├── application.properties 
 │
-├── pom.xml # Maven dependencies
-└── README.md # Project documentation
+├── pom.xml 
+└── README.md 
 
 
